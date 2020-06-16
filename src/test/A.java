@@ -5,6 +5,6 @@ public class A {
         System.out.println(Num);
     }
     public void Test() {
-        doStuff(10);
+        doStuff(10); // call overridden
     }
 }
